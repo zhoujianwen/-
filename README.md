@@ -1,2 +1,2 @@
-# HigherMathematicsExercises
-高数每日一题集锦
+# 高数题集锦
+
